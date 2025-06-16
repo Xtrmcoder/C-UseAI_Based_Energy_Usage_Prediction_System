@@ -5,6 +5,14 @@ This capstone project presents an AI-powered solution to predict household energ
 ## 🚀 Live App
 👉 [Click here to try the app](https://pradyumn.streamlit.app/)
 
+## 📸 Screenshots
+
+| Interface           | Screenshot |
+|---------------------|------------|
+| 🏠 Home Page         | ![Home Page](https://github.com/PrathamAgrawal51/AI_Based_Energy_Usage_Prediction_System/blob/0be2ac838070e661dd916c086dd18fbba06f2c51/images/image_1.png) |
+| 💳 Raw Data Preview   | ![Deposit](https://github.com/PrathamAgrawal51/AI_Based_Energy_Usage_Prediction_System/blob/0be2ac838070e661dd916c086dd18fbba06f2c51/images/image_2.png) |
+| 📉 Usage Pattern Check  | ![Withdraw](https://github.com/PrathamAgrawal51/AI_Based_Energy_Usage_Prediction_System/blob/0be2ac838070e661dd916c086dd18fbba06f2c51/images/image_3.png) |
+
 ## 🔍 Project Overview
 
 The system utilizes historical power consumption data to forecast energy usage in three primary areas:
